@@ -5,3 +5,10 @@
 The idea is to have `PiiString` type as much interchangeable with `String` as possible to simplify refactoring existing code which uses the `String`. Then, within the application boundary it should behave like usual `String`, however crossing application boundaries it should be encoded/encrypted/hashed.
 
 Read [blogpost](https://gaevoy.com/2022/03/18/personally-identifiable-information-data-types.html) for more details.
+
+### NuGet packages
+
+* [PiiTypes](https://www.nuget.org/packages/PiiTypes/)
+* [PiiTypes.NewtonsoftJson](https://www.nuget.org/packages/PiiTypes.NewtonsoftJson/)
+* [PiiTypes.SystemTextJson](https://www.nuget.org/packages/PiiTypes.SystemTextJson/)
+* [PiiTypes.EFCore3](https://www.nuget.org/packages/PiiTypes.EFCore3/)
