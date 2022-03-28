@@ -1,8 +1,12 @@
 <Project>
     <PropertyGroup>
         <LangVersion>10</LangVersion>
-        <PackageVersion>1.0.0</PackageVersion>
-		<AssemblyVersion>1.0.0</AssemblyVersion>
-        <FileVersion>1.0.0</FileVersion>
+        <PackageVersion>1.0.1</PackageVersion>
+        <AssemblyVersion>1.0.1</AssemblyVersion>
+        <FileVersion>1.0.1</FileVersion>
+        <RepositoryUrl>https://github.com/gaevoy/PiiTypes</RepositoryUrl>
+        <Authors>gaevoy</Authors>
+        <PackageProjectUrl>https://github.com/gaevoy/PiiTypes/blob/main/README.md</PackageProjectUrl>
+        <PackageTags>pii;string</PackageTags>
     </PropertyGroup>
 </Project>
